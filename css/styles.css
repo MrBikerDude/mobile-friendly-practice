@@ -8,7 +8,7 @@ div{
 }
 .wave{
     position: relative;
-    background: linear-gradient(90deg, #f0027f, #75489f);
+    background: linear-gradient(90deg, #2985cf, #2405ac);
 }
 .wave:before{
     content: '';
@@ -20,5 +20,42 @@ div{
     background: url(../img/wave.png);
     background-size: cover;
     background-repeat: no-repeat;
-
+}
+.row2{
+    margin-top: -150px;
+    width: 90%;
+    margin-left: 70px;
+}
+.row1{
+    width: 90%;
+    margin-left: 70px;
+}
+h2{
+    margin-top: 0;
+    text-align: center;
+    padding-top: 150px;
+    color: aliceblue;
+    font-size: 45px;
+}
+.h2p{
+    color: blue;
+    text-align: left;
+    font-size: 30px;
+}
+.h2p2{
+    color: blue;
+    text-align: right;
+    font-size: 30px;
+}
+.p1{
+    font-size: small;
+    width: 1300px;
+}
+.p2{
+    font-size: small;
+    width: 1300px;
+    text-align: right;
+}
+ul{
+    list-style: none;
 }
