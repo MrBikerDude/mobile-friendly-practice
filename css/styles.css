@@ -78,7 +78,7 @@ i{
     background: red;}
 }
 @media screen and (min-width: 768px) { .wave{
-    background:purple;}
+    background:green;}
 }
 @media screen and (min-width: 1024px) { .wave{
     background: yellow;}
